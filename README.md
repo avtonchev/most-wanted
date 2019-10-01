@@ -27,7 +27,9 @@ Export all towns which have any racers in them<br> <br>
 4.	Orders them descending, by count of cars they have, and then by racer name alphabetically. 
 
 ## Usage
-
+1. run MostwantedApplication
+2. setup MySQL server
+2. open http://localhost:8000
 ## Built With
 MVP Pattern
 Spring Boot 2.1.0
