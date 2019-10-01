@@ -1,7 +1,7 @@
 # Most Wanted App
 
-The application imports hard-formatted data from XML- and JSON files into MySQL database.
-the following entities are imported from JSON file:
+The application imports hard-formatted data from XML- and JSON files into MySQL database.<br>
+The following entities are imported from JSON file:
 - Town
 - District
 - Racer
